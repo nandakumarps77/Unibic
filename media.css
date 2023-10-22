@@ -1,0 +1,36 @@
+@media(max-width: 768px){
+    .shop-now .btn-lg{
+        display: none !important;
+    }
+    .round{
+      display: none !important;
+    }
+    .none-container{
+      display: none;
+    }
+
+    .logo-image{
+      width: 75px;
+      height: 35px;
+  }
+  .product-image{
+    width: 320px;
+    height: 147px;
+  }
+  .product-text{
+    top:123px;
+  }
+}
+
+@media(max-width:992px){
+  .image-border{
+    width: 30vw;
+    height: 18vw;
+    margin-left: 6vw;
+}
+.names{
+  width: 30vw;
+  margin-left: 6vw;
+}
+
+}
